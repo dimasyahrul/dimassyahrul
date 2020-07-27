@@ -11,7 +11,7 @@ return (
 <h1>Tentang Kami</h1>
 <h5>Mahasiswa Stikom Banyuwangi</h5>
 <p>Nama  : DIMAS SYAHRUL ASYIRI</p>
-<P>Tempat, Tgl Lahir : Banyuwangi, 14 JANUARI 2000</P>
+<p>Tempat, Tgl Lahir : Banyuwangi, 14 JANUARI 2000</p>
 <p>Jenis Kelamin : Laki-Laki</p>
 <p>Agama : Islam</p>
 <p>Alamat : Jl.PANTAI BOMO - BLIMBINGSARI</p>
